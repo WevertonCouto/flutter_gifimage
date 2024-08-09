@@ -5,12 +5,10 @@ author: Jpeng <peng8350@gmail.com>
 homepage: https://github.com/peng8350/flutter_gifimage
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ^3.4.0
 
 dependencies:
   flutter:
     sdk: flutter
 
-dev_dependencies:
-flutter:
 
